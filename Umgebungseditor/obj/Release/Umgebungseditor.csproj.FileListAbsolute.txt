@@ -1,0 +1,12 @@
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\bin\Release\Umgebungseditor.exe.config
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\bin\Release\Umgebungseditor.exe
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\bin\Release\Umgebungseditor.pdb
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\obj\Release\Umgebungseditor.csprojAssemblyReference.cache
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\obj\Release\Umgebungseditor.Umgebungseditor.resources
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\obj\Release\Umgebungseditor.HelpForm.resources
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\obj\Release\Umgebungseditor.Properties.Resources.resources
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\obj\Release\Umgebungseditor.tileControl.resources
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\obj\Release\Umgebungseditor.csproj.GenerateResource.cache
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\obj\Release\Umgebungseditor.csproj.CoreCompileInputs.cache
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\obj\Release\Umgebungseditor.exe
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\obj\Release\Umgebungseditor.pdb

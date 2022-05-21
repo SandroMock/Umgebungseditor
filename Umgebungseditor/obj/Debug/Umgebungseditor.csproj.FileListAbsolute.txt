@@ -1,0 +1,24 @@
+C:\Users\Sandch\source\repos\Umgebungseditor\bin\Debug\Umgebungseditor.exe.config
+C:\Users\Sandch\source\repos\Umgebungseditor\bin\Debug\Umgebungseditor.exe
+C:\Users\Sandch\source\repos\Umgebungseditor\bin\Debug\Umgebungseditor.pdb
+C:\Users\Sandch\source\repos\Umgebungseditor\obj\Debug\Umgebungseditor.csprojAssemblyReference.cache
+C:\Users\Sandch\source\repos\Umgebungseditor\obj\Debug\Umgebungseditor.Form1.resources
+C:\Users\Sandch\source\repos\Umgebungseditor\obj\Debug\Umgebungseditor.Properties.Resources.resources
+C:\Users\Sandch\source\repos\Umgebungseditor\obj\Debug\Umgebungseditor.csproj.GenerateResource.cache
+C:\Users\Sandch\source\repos\Umgebungseditor\obj\Debug\Umgebungseditor.csproj.CoreCompileInputs.cache
+C:\Users\Sandch\source\repos\Umgebungseditor\obj\Debug\Umgebungseditor.exe
+C:\Users\Sandch\source\repos\Umgebungseditor\obj\Debug\Umgebungseditor.pdb
+C:\Users\Sandch\source\repos\Umgebungseditor\obj\Debug\Umgebungseditor.tileControl.resources
+C:\Users\Sandch\source\repos\Umgebungseditor\obj\Debug\Umgebungseditor.HelpForm.resources
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\bin\Debug\Umgebungseditor.exe.config
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\bin\Debug\Umgebungseditor.exe
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\bin\Debug\Umgebungseditor.pdb
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\obj\Debug\Umgebungseditor.csprojAssemblyReference.cache
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\obj\Debug\Umgebungseditor.HelpForm.resources
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\obj\Debug\Umgebungseditor.Properties.Resources.resources
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\obj\Debug\Umgebungseditor.tileControl.resources
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\obj\Debug\Umgebungseditor.csproj.GenerateResource.cache
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\obj\Debug\Umgebungseditor.csproj.CoreCompileInputs.cache
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\obj\Debug\Umgebungseditor.exe
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\obj\Debug\Umgebungseditor.pdb
+C:\Users\Sandch\Desktop\Abgabe ToolDev\Umgebungseditor\obj\Debug\Umgebungseditor.Umgebungseditor.resources
